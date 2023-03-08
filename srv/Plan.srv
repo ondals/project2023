@@ -1,0 +1,4 @@
+string task
+geometry_msgs/Pose target_pose
+---
+bool status
